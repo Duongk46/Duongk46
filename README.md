@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Duongk46]!
 
-<!--
-**Duongk46/Duongk46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Duongk46?style=social)](https://github.com/Duongk46)
+[![GitHub stars](https://img.shields.io/github/stars/Duongk46?style=social)](https://github.com/Duongk46)
 
-Here are some ideas to get you started:
+## 🎯 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Tespr Project**
+- 🌱 I'm currently learning **new technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **software development**
+- 📫 How to reach me: **[your-email@example.com]**
+- ⚡ Fun fact: **I love coding!**
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duongk46&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duongk46&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Duongk46&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duongk46&theme=radical&hide_border=true)
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Duongk46&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+⭐ **Thanks for visiting my profile!**
