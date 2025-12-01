@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Duongk46]!
+# 👋 Hi there, I'm Duongk46!
 
 [![GitHub followers](https://img.shields.io/github/followers/Duongk46?style=social)](https://github.com/Duongk46)
 [![GitHub stars](https://img.shields.io/github/stars/Duongk46?style=social)](https://github.com/Duongk46)
