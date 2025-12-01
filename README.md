@@ -5,11 +5,11 @@
 
 ## 🎯 About Me
 
-- 🔭 I'm currently working on **Tespr Project**
+- 💼 **Software Engineer**
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **software development**
-- 📫 How to reach me: **[your-email@example.com]**
+- 💬 Ask me about **software engineering**
+- 📫 How to reach me: **[minhduong18072002@gmail.com]**
 - ⚡ Fun fact: **I love coding!**
 
 ## 🏆 GitHub Achievements
@@ -25,9 +25,11 @@
 
 ## 🛠️ Tech Stack
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 📊 Contribution Graph
