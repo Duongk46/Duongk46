@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Duongk46&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  [<img src="https://github-readme-streak-stats.demolab.com/?user=Duongk46&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />](https://github.com/users/Duongk46/achievements/yolo)
 </div>
 
 ## 🛠️ Tech Stack
