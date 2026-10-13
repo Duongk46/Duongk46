@@ -19,9 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duongk46&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  [<img src="https://github-readme-streak-stats.demolab.com/?user=Duongk46&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />](https://github.com/users/Duongk46/achievements/yolo)
-</div>
 
 ## 🛠️ Tech Stack
 
